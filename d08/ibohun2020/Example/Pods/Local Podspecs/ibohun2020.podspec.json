@@ -1,0 +1,22 @@
+{
+  "name": "ibohun2020",
+  "version": "0.1.0",
+  "summary": "A short description of ibohun2020.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/znatno/ibohun2020",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "znatno": "ivanbohuna@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/znatno/ibohun2020.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ibohun2020/Classes/**/*"
+}

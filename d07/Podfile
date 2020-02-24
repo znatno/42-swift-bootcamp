@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'd07' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for d07
+  pod "RecastAI"
+  pod "ForecastIO"
+  pod 'JSQMessagesViewController', '~> 7.3'
+
+  target 'd07Tests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'd07UITests' do
+    # Pods for testing
+  end
+
+end

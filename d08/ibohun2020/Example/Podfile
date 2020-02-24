@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ibohun2020_Example' do
+  pod 'ibohun2020', :path => '../'
+
+  target 'ibohun2020_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

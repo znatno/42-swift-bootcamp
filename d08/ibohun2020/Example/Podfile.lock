@@ -1,0 +1,16 @@
+PODS:
+  - ibohun2020 (0.1.0)
+
+DEPENDENCIES:
+  - ibohun2020 (from `../`)
+
+EXTERNAL SOURCES:
+  ibohun2020:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ibohun2020: 3cba407f0591ccba25ec757ec281c9a0e022af3e
+
+PODFILE CHECKSUM: 0f75c3e4ae9f18e3f21cf7f6c78c7c7079cc0c63
+
+COCOAPODS: 1.8.4

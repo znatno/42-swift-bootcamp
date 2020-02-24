@@ -1,0 +1,16 @@
+PODS:
+  - ibohun2020 (0.1.0)
+
+DEPENDENCIES:
+  - ibohun2020 (from `/Users/ibohun/Swift/ibohun2020`)
+
+EXTERNAL SOURCES:
+  ibohun2020:
+    :path: "/Users/ibohun/Swift/ibohun2020"
+
+SPEC CHECKSUMS:
+  ibohun2020: 417915c0b7c739206fb4d7168f931f0a9b4f1907
+
+PODFILE CHECKSUM: 4d4b9f446e199d36135043bf7728696fa0d9c249
+
+COCOAPODS: 1.8.4
